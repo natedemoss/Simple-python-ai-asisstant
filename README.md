@@ -45,7 +45,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 For any inquiries or feedback, please reach out to: 
 
-- Your Name - [ndemoss28@gmail.com] 
+- Nathan DeMoss - [ndemoss28@gmail.com] 
 
 ## Acknowledgments 
 
