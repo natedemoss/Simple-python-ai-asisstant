@@ -4,7 +4,7 @@ import requests
 url = "https://api.groq.com/openai/v1/chat/completions"
 
 headers = {
-    "Authorization": "Bearer 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",
+    "Authorization": "Bearer your_api_key",
     "Content-Type": "application/json"
 }
 
