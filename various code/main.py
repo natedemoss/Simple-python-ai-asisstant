@@ -6,7 +6,7 @@ url = "https://api.groq.com/openai/v1/chat/completions"
 
 # Replace with your actual key
 headers = {
-    "Authorization": "Bearer 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",
+    "Authorization": "Bearer your_key",
     "Content-Type": "application/json"
 }
 
